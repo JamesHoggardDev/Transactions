@@ -1,0 +1,86 @@
+{
+  "active": [
+    {
+      "property": {
+        "address": {
+          "street": "1428 Elm Street",
+          "city": "Springwood",
+          "state": "OH"
+        },
+        "imageUrl": "lostround.png"
+      },
+      "moveInDate": "25 May 2018",
+      "rent": 1500.0,
+      "deposit": {
+        "amount": 9000.0,
+        "type": "First, Last & Security"
+      },
+      "status": {
+        "message": "Awaiting Bank Processing",
+        "level": 2
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "street": "984 W. 124th Street, Apt. 5C",
+          "city": "Harlem",
+          "state": "NY"
+        },
+        "imageUrl": "jaggedarbor.png"
+      },
+      "moveInDate": "12 March 2017",
+      "rent": 2300.0,
+      "deposit": {
+        "amount": 4600.0,
+        "type": "First & Last"
+      },
+      "status": {
+        "message": "Payment Processed",
+        "level": 3
+      }
+    }
+  ],
+  "closed": [
+    {
+      "property": {
+        "address": {
+          "street": "805 St. Cloud Road",
+          "city": "Brentwood",
+          "state": "CA"
+        },
+        "imageUrl": "noblecape.png"
+      },
+      "moveInDate": "3 February 2020",
+      "rent": 3300.0,
+      "deposit": {
+        "amount": 6900.0,
+        "type": "Complete"
+      },
+      "status": {
+        "message": "Awaiting Bank Processing",
+        "level": 3
+      }
+    },
+    {
+      "property": {
+        "address": {
+          "street": "1516 W Wrightwood Avenue",
+          "city": "Chicago",
+          "state": "IL"
+        },
+        "imageUrl": "tawnymaze.png"
+      },
+      "moveInDate": "17 January 2021",
+      "rent": 2300.0,
+      "deposit": {
+        "amount": 7000.0,
+        "type": "First, Last & Security"
+      },
+      "status": {
+        "message": "Payment Not Yet Received",
+        "level": 1
+      }
+    }
+  ]
+}
